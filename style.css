@@ -11,13 +11,13 @@ h1{
   text-align: center;
   font-size: 40px
 }
-a:link{
+a:link, a:visited{
   text-decoration:none;
   color:#f0536c;
 }
 
 a:visited{
-  color:
+
 }
 
 a:hover {
